@@ -44,7 +44,7 @@ Open the script and populate the following variables:
 Simply run the script:
 
 ```bash
-python3 your_script_name.py
+python3 bot.py
 ```
 
 ## Contributing
